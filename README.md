@@ -1,8 +1,8 @@
-# CityFun - Entrega 1 y 2
+# CityFun
 
-## Paradigma Funcional: Haskell
+## Functional Paradigm: Haskell
 
-# Autores/as:
+# Authors:
  * Ezequiel Sebastian Giannoni
  * Fausto Rodríguez
  * Mateo Ezequiel Pirchi
